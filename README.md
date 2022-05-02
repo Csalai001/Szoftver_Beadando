@@ -1,0 +1,2 @@
+# Szoftver_Beadando
+Minijáték
